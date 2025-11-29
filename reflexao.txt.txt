@@ -10,8 +10,5 @@ a) A lógica dedutiva aparece no Git porque cada comando parte de informações 
 
 5. No Git vários comandos seguem uma lógica clara, o git status faz uma análise lógica do estado do repositório mostrando quais arquivos mudaram desde o último registro, já o git diff compara versões diretamente, apontando diferenças reais sem fazer previsões tentar “adivinhar”, o git log permite entender a evolução do projeto porque mostra uma sequência organizada de commits o que ajuda a ver o que mudou ao longo do tempo, assim ele funciona com base em uma lógica dedutiva, ou seja, cada comando parte de informações claras sobre o repositório e gera resultados previsíveis e estruturados
 
-
-b) A decomposição aparece nas branches porque cada branch representa uma parte separada do trabalho focada em uma tarefa específica, em vez de mexer no projeto inteiro de uma vez, o desenvolvedor divide o problema em partes menores e trabalha em cada uma delas de forma independente, isso deixa o desenvolvimento mais organizado, facilita testar cada etapa e evita misturar alterações que não têm relação entre si no momento do desenvolvimento
-
-
+b) A decomposição aparece no uso de branches porque cada branch representa uma parte separada do trabalho, focada em uma tarefa específica. Em vez de mexer no projeto inteiro de uma vez, o desenvolvedor divide o problema em partes menores e trabalha em cada uma delas de forma independente. Isso deixa o desenvolvimento mais organizado, facilita testar cada etapa e evita misturar alterações que não têm relação entre si.
 
