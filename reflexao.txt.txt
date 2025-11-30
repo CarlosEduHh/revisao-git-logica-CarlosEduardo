@@ -12,3 +12,4 @@ a) A lógica dedutiva aparece no Git porque cada comando parte de informações 
 
 b) A decomposição aparece no uso de branches porque cada branch representa uma parte separada do trabalho, focada em uma tarefa específica. Em vez de mexer no projeto inteiro de uma vez, o desenvolvedor divide o problema em partes menores e trabalha em cada uma delas de forma independente. Isso deixa o desenvolvimento mais organizado, facilita testar cada etapa e evita misturar alterações que não têm relação entre si.
 
+Analise do que mudou: na versão anterior tinha somente as questões respondidas, e na atual branch tem a reflexão e agora esta resposta
