@@ -13,3 +13,20 @@ a) A lógica dedutiva aparece no Git porque cada comando parte de informações 
 b) A decomposição aparece no uso de branches porque cada branch representa uma parte separada do trabalho, focada em uma tarefa específica. Em vez de mexer no projeto inteiro de uma vez, o desenvolvedor divide o problema em partes menores e trabalha em cada uma delas de forma independente. Isso deixa o desenvolvimento mais organizado, facilita testar cada etapa e evita misturar alterações que não têm relação entre si.
 
 Analise do que mudou: na versão anterior tinha somente as questões respondidas, e na atual branch tem a reflexão e agora esta resposta
+
+
+Resumo do Historico Git
+
+Olhando o git log, da pra ver que fiz 4 commits no total. O interessante e que da pra entender direitinho o que aconteceu em cada etapa do trabalho.
+
+O primeiro commit foi la pras 17h, quando criei o arquivo com as primeiras reflexoes sobre logica e Git. Esse foi basicamente o inicio do projeto na branch main.
+
+Depois disso, criei o branch desenvolvimento e fiz mais 2 commits por la (um as 17h16 e outro as 17h25). Nesses commits eu fui adicionando mais reflexoes sobre decomposicao e como funciona essa coisa de branches. Achei legal trabalhar num branch separado porque nao mexe na versao principal enquanto to testando as coisas.
+
+Por ultimo, bem mais tarde as 22h44, fiz o merge que trouxe tudo do desenvolvimento pra main. Esse commit juntou todo o trabalho que eu tinha feito separado com a versao principal.
+
+Algumas coisas que percebi sobre como o Git funciona:
+
+Cada commit tem um codigo proprio, meu nome, a data certinha e uma mensagem explicando o que mudou. A ordem dos commits mostra tipo uma linha do tempo de como o projeto foi crescendo. Usar branches deixou bem mais organizado mesmo, e tipo trabalhar num rascunho antes de passar pro caderno final. E o git log funciona como um historico que posso voltar e consultar quando quiser.
+
+No geral, da pra ver que o Git usa bastante aqueles conceitos de pensamento computacional que estudamos. Dividi o trabalho em partes menores usando branches, registrei cada mudanca com commits e deixei tudo rastreavel atraves do historico. Entender isso na pratica foi bem mais tranquilo do que so estudar a teoria.
